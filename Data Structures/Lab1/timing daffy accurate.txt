@@ -1,0 +1,13 @@
+n: 30 time: elapsed time: 0.003817305 seconds.
+n: 31 time: elapsed time: 0.006582581 seconds.
+n: 32 time: elapsed time: 0.009966047 seconds.
+n: 33 time: elapsed time: 0.016360723 seconds.
+n: 34 time: elapsed time: 0.026068598 seconds.
+n: 35 time: elapsed time: 0.042445901 seconds.
+n: 36 time: elapsed time: 0.079087684 seconds.
+n: 37 time: elapsed time: 0.11206967 seconds.
+n: 38 time: elapsed time: 0.17891632 seconds.
+n: 39 time: elapsed time: 0.291785374 seconds.
+n: 40 time: elapsed time: 0.695034859 seconds.
+n: 41 time: elapsed time: 0.753498439 seconds.
+n: 42 time: elapsed time: 1.225403353 seconds.
